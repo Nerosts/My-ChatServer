@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/zc/study/z_project/build/src/server",
+  "command": "/usr/bin/c++   -I/home/zc/study/z_project/include -I/home/zc/study/z_project/thridpart -I/home/zc/study/z_project/include/server -I/home/zc/study/z_project/include/server/db -I/home/zc/study/z_project/include/server/model -I/home/zc/study/z_project/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/Main.cpp.o -c /home/zc/study/z_project/src/server/Main.cpp",
+  "file": "/home/zc/study/z_project/src/server/Main.cpp"
+},
+{
+  "directory": "/home/zc/study/z_project/build/src/server",
+  "command": "/usr/bin/c++   -I/home/zc/study/z_project/include -I/home/zc/study/z_project/thridpart -I/home/zc/study/z_project/include/server -I/home/zc/study/z_project/include/server/db -I/home/zc/study/z_project/include/server/model -I/home/zc/study/z_project/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/charserver.cpp.o -c /home/zc/study/z_project/src/server/charserver.cpp",
+  "file": "/home/zc/study/z_project/src/server/charserver.cpp"
+},
+{
+  "directory": "/home/zc/study/z_project/build/src/server",
+  "command": "/usr/bin/c++   -I/home/zc/study/z_project/include -I/home/zc/study/z_project/thridpart -I/home/zc/study/z_project/include/server -I/home/zc/study/z_project/include/server/db -I/home/zc/study/z_project/include/server/model -I/home/zc/study/z_project/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/zc/study/z_project/src/server/chatservice.cpp",
+  "file": "/home/zc/study/z_project/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/zc/study/z_project/build/src/server",
+  "command": "/usr/bin/c++   -I/home/zc/study/z_project/include -I/home/zc/study/z_project/thridpart -I/home/zc/study/z_project/include/server -I/home/zc/study/z_project/include/server/db -I/home/zc/study/z_project/include/server/model -I/home/zc/study/z_project/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/zc/study/z_project/src/server/db/db.cpp",
+  "file": "/home/zc/study/z_project/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/zc/study/z_project/build/src/server",
+  "command": "/usr/bin/c++   -I/home/zc/study/z_project/include -I/home/zc/study/z_project/thridpart -I/home/zc/study/z_project/include/server -I/home/zc/study/z_project/include/server/db -I/home/zc/study/z_project/include/server/model -I/home/zc/study/z_project/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/zc/study/z_project/src/server/model/friendmodel.cpp",
+  "file": "/home/zc/study/z_project/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/zc/study/z_project/build/src/server",
+  "command": "/usr/bin/c++   -I/home/zc/study/z_project/include -I/home/zc/study/z_project/thridpart -I/home/zc/study/z_project/include/server -I/home/zc/study/z_project/include/server/db -I/home/zc/study/z_project/include/server/model -I/home/zc/study/z_project/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/zc/study/z_project/src/server/model/groupmodel.cpp",
+  "file": "/home/zc/study/z_project/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/zc/study/z_project/build/src/server",
+  "command": "/usr/bin/c++   -I/home/zc/study/z_project/include -I/home/zc/study/z_project/thridpart -I/home/zc/study/z_project/include/server -I/home/zc/study/z_project/include/server/db -I/home/zc/study/z_project/include/server/model -I/home/zc/study/z_project/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/zc/study/z_project/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/zc/study/z_project/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/zc/study/z_project/build/src/server",
+  "command": "/usr/bin/c++   -I/home/zc/study/z_project/include -I/home/zc/study/z_project/thridpart -I/home/zc/study/z_project/include/server -I/home/zc/study/z_project/include/server/db -I/home/zc/study/z_project/include/server/model -I/home/zc/study/z_project/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/zc/study/z_project/src/server/model/usermodel.cpp",
+  "file": "/home/zc/study/z_project/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/zc/study/z_project/build/src/server",
+  "command": "/usr/bin/c++   -I/home/zc/study/z_project/include -I/home/zc/study/z_project/thridpart -I/home/zc/study/z_project/include/server -I/home/zc/study/z_project/include/server/db -I/home/zc/study/z_project/include/server/model -I/home/zc/study/z_project/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/redis/reids.cpp.o -c /home/zc/study/z_project/src/server/redis/reids.cpp",
+  "file": "/home/zc/study/z_project/src/server/redis/reids.cpp"
+},
+{
+  "directory": "/home/zc/study/z_project/build/src/client",
+  "command": "/usr/bin/c++   -I/home/zc/study/z_project/include -I/home/zc/study/z_project/thridpart -I/home/zc/study/z_project/include/server -I/home/zc/study/z_project/include/server/db -I/home/zc/study/z_project/include/server/model -I/home/zc/study/z_project/include/server/redis  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/zc/study/z_project/src/client/main.cpp",
+  "file": "/home/zc/study/z_project/src/client/main.cpp"
+}
+]
